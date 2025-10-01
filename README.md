@@ -26,8 +26,6 @@
 
 - ⚡ Fun fact **I can do more**
 
----
-
 <h2 align="center">Frontend Tools</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
