@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">MERN Stack Developer with expertise in building scalable, secure, and interactive web applications using modern frontend frameworks and robust backend technologies. Skilled in databases, real-time systems, and security best practices, with hands-on experience in testing, DevTools, and design. Passionate about delivering high-quality, user-focused solutions.</h3>
+<h3 align="center">MERN Stack Developer 🚀 focused on building scalable, secure, and user-centric web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul2986&label=Profile%20views&color=0e75b6&style=flat" alt="abdul2986" /> </p>
 
