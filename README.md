@@ -152,8 +152,6 @@ I’m a BS Computer Science student passionate about full-stack development usin
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdul2986/abdul2986/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 
 <br>
 
