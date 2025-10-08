@@ -22,8 +22,8 @@ I’m a BS Computer Science student passionate about full-stack development usin
   
 - 🎮 Outside of tech
   - *I enjoy hanging out with friends, playing video games, exploring new technologies, and occasionally diving into creative design projects.*
-    
--📫 Reach out to me at: abdreh901@gmail.com
+
+- 📫 Reach out to me at: abdreh901@gmail.com
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
