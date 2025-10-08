@@ -1,33 +1,49 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">MERN Stack Developer 🚀 focused on building scalable, secure, and user-centric web applications.</h3>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Abdul Rehman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
-<p align="center">
-  <a href="https://github.com/abdul2986?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abdul2986?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/abdul2986?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abdul2986?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/abdul2986/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul2986" alt="abdul2986" /></a> </p>
+<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-- 🔭 I’m currently working on **MERN stack projects ⚛️, building real-time apps ⚡, improving backend security 🔐, and creating modern UIs 🎨 with React and TailwindCSS.**
+I’m a BS Computer Science student passionate about full-stack development using the MERN stack. I build real-time, secure, and scalable web applications with modern UIs using React and TailwindCSS. I’m currently learning advanced TypeScript, GraphQL, and backend scaling with Redis and WebRTC to create efficient, production-ready systems.
 
-- 🌱 I’m currently learning **advanced TypeScript 🌀, backend scaling with Redis & WebRTC ⚡, GraphQL & Apollo 🚀, and diving deeper into security practices 🔐 and testing frameworks 🧪 to build more reliable, production-ready applications.**
+- 📚 I’m currently learning ...
+  - *Advanced TypeScript and backend scaling with Redis & WebRTC*
+  - *GraphQL and Apollo for efficient data handling*
+  - *Security best practices and testing frameworks for production-ready systems*
 
-- 👯 I’m looking to collaborate on **open-source MERN stack projects ⚛️, real-time applications ⚡, and innovative web solutions 🌍 that focus on scalability, security, and great user experiences.**
+- 🚀 I’m eager to work on new projects
+  - *Building real-time MERN stack applications*
+  - *Contributing to open-source projects and collaborative web solutions*
+  - *Exploring modern UI/UX design using React and TailwindCSS*
 
-- 🤝 I’m looking for help with **exploring advanced backend scaling ⚡, optimizing real-time systems 🌐, and contributing to open-source projects 💻 where I can learn from experienced developers and grow my skills.**
+- ✔ Feel free to ask me anything!
+  
+- 🎮 Outside of tech
+  - *I enjoy hanging out with friends, playing video games, exploring new technologies, and occasionally diving into creative design projects.*
+    
+-📫 Reach out to me at: abdreh901@gmail.com
 
-- 💬 Ask me about **MERN stack development ⚛️, real-time applications ⚡, backend security 🔐, state management with Redux 🎯, or creating interactive UIs 🎨 with React and TailwindCSS.**
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=abdul2986&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>   
 
-- 📫 How to reach me **abdreh901@gmail.com**
+<div align="center">
+  <a href="mailto:abdreh901@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/abdul77386/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+</div>
 
-- ⚡ Fun fact **I can do more**
+<br>
 
-<h2 align="center">Frontend Tools</h2>
-<p align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+##### Frontend Tools:
+<p align="left">
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -47,8 +63,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="40" height="40"/>
 </p>
 
-<h2 align="center">Backend Tools</h2>
-<p align="center">
+##### Backend Tools:
+<p align="left">
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="40" height="40"/>
@@ -71,8 +87,8 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" alt="MySQL" width="40" height="40"/> 
 </p>
 
-<h2 align="center">Testing Tools</h2>
-<p align="center">
+##### Testing Tools:
+<p align="left">
   <img src="https://vitest.dev/logo.svg" alt="Vitest" width="40" height="40"/>
   <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library" width="40" height="40"/>
   <img src="https://www.cypress.io/favicon.ico" alt="Cypress" width="40" height="40"/>
@@ -81,29 +97,60 @@
   <img src="https://prettier.io/icon.png" alt="Prettier" width="40" height="40"/>
 </p>
 
-<h2 align="center">Security Testing</h2>
-<p align="center">
+##### Security Testing Tools:
+<p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCH8wqcXnVvLP4hhGfSs4Mb-_nlVH5NqBcqA&s" alt="OWASP ZAP" width="40" height="40"/>
   <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="SQLMap" width="40" height="40"/>
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/08/com.openwall.John.png" alt="John The Ripper" width="40" height="40"/>
 </p>
 
-<h2 align="center">Graphics Tools</h2>
-<p align="center">
+##### Graphics Designing Tools:
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://images.icon-icons.com/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" alt="Illustrator" width="40" height="40"/>
 </p>
 
-<h2 align="center">Version Control</h2>
-<p align="center">
+##### Version Controls:
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://github.githubassets.com/favicons/favicon.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-<h2 align="center">Other Tools</h2>
-<p align="center">
+##### Other Tools:
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="Raylib" width="40" height="40"/>
 </p>
+
+<br>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdul2986&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul2986&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdul2986&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+
+<br>
+
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=ALX-13%2FViews-Counter">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
+<br>
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
