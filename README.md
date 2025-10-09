@@ -146,6 +146,10 @@ I’m a BS Computer Science student passionate about full-stack development usin
 
 <br>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ve6I2oizb2?ext=heatmap)](https://leetcode.com/u/Ve6I2oizb2/)
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul2986/abdul2986/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul2986/abdul2986/output/pacman-contribution-graph.svg">
@@ -163,3 +167,5 @@ I’m a BS Computer Science student passionate about full-stack development usin
 <br>
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## 📊 LeetCode Heatmap
