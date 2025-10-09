@@ -146,6 +146,10 @@ I’m a BS Computer Science student passionate about full-stack development usin
 
 <br>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***leetcode Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Ve6I2oizb2?ext=heatmap)](https://leetcode.com/u/Ve6I2oizb2/)
 
 <br>
@@ -167,5 +171,3 @@ I’m a BS Computer Science student passionate about full-stack development usin
 <br>
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 📊 LeetCode Heatmap
